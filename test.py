@@ -23,16 +23,16 @@ class Vehicle:
 # your code goes here
 
 CAR_1 = Vehicle()
-CAR_1.name = "Fer"
+CAR_1.name = "Ford Mustang GT"
 CAR_1.kind = "convertible"
 CAR_1.color = "red"
 CAR_1.value = 60000.00
 
 CAR_2 = Vehicle()
-CAR_2.name = "Jump"
-CAR_2.kind = "van"
-CAR_2.color = "blue"
-CAR_2.value = 10000.00
+CAR_2.name = "Jeep"
+CAR_2.kind = "SUV"
+CAR_2.color = "black"
+CAR_2.value = 30000.00
 
 # test code
 print(CAR_1.description())
