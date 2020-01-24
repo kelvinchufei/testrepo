@@ -23,7 +23,7 @@ class Vehicle:
 # your code goes here
 
 CAR_1 = Vehicle()
-CAR_1.name = "Ford Mustang GT"
+CAR_1.name = "Ford Mustang GT500"
 CAR_1.kind = "convertible"
 CAR_1.color = "red"
 CAR_1.value = 60000.00
