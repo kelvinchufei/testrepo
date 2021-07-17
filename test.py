@@ -16,8 +16,8 @@ class Vehicle:
 
     def crash(self):
         """The crash event changes the Vehicle name and value"""
-        self.color = "crashed " + self.color
-        self.value = 0.0
+        self.color = "damaged " + self.color
+        self.value = self.value - 10000
 
 
 # your code goes here
