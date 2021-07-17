@@ -26,7 +26,7 @@ CAR_1 = Vehicle()
 CAR_1.name = "Ford Mustang GT500"
 CAR_1.kind = "convertible"
 CAR_1.color = "red"
-CAR_1.value = 61000.00
+CAR_1.value = 60000.00
 
 CAR_2 = Vehicle()
 CAR_2.name = "Jeep"
